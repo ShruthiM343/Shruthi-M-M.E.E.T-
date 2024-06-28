@@ -1,0 +1,124 @@
+body{
+    .heading{
+        text-align: center;
+    }
+    .contents{
+        margin-left:70px;
+        .row1{
+            button{
+                height:40px;
+                width:90px;
+                border-style: solid;
+                color:white;
+                background-color: rgb(135, 131, 131);
+                margin-left:280px;
+            }
+            img{
+                margin-left:20px;
+                
+            }
+            .img1{
+                img{
+                    height:330px;
+                    width:350px;
+                    margin-right: 10px;
+                }
+                border-style: solid;
+                margin:20px;
+                h2,h3{
+                    margin-left: 40px;
+                }
+                
+                
+                    
+            }
+            .img2{
+                img{
+                    height:330px;
+                    width:350px;
+                    margin-right: 10px;
+                    margin-top:10px;
+                }
+                border-style: solid;
+                margin:20px;
+                h2,h3{
+                    margin-left: 40px;
+                }
+           }
+           .img3{
+            img{
+                height:330px;
+                width:350px;
+                margin-right: 10px;
+                letter-spacing: 20px;
+            }
+            border-style: solid;
+            margin:20px;
+            h2,h3{
+                margin-left: 40px;
+            }
+             }
+        }
+        .row2{
+            button{
+                height:40px;
+                width:90px;
+                border-style: solid;
+                color:white;
+                background-color: rgb(135, 131, 131);
+                margin-left:280px;
+            }
+            img{
+                height:330px;
+                width:350px;
+                margin-right: 10px;
+            }
+            margin:20px;
+            h2,h3{
+                margin-left: 40px;
+            }
+            .img4{
+                img{
+                    height:350px;
+                    width:370px;
+                    margin-right: 10px;
+                }
+                border-style: solid;
+                margin:20px;
+                h2,h3{
+                    margin-left: 40px;
+                }
+            }
+            .img5{
+                img{
+                    height:330px;
+                    width:350px;
+                    margin-right: 10px;
+                }
+                border-style: solid;
+                margin:20px;
+                h2,h3{
+                    margin-left: 40px;
+                }
+           }
+           .img6{
+            img{
+                height:330px;
+                width:350px;
+                margin-right: 0px;
+            }
+            border-style: solid;
+            margin:20px;
+            h2,h3{
+                margin-left: 40px;
+            }
+             }
+        }
+        .row1, .row2{
+            display:flex;
+            flex-direction:row;
+        }
+
+    }
+}
+/* Shruthi M */
